@@ -1,0 +1,9 @@
+runtime/
+models/
+assets/
+Cache/
+__pycache__/
+*.log
+*.xlsx
+Projects/
+Exports/

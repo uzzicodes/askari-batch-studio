@@ -1,0 +1,18 @@
+[
+  {
+    "aliases": [
+      "Sunsilk Shampoo 360 ml",
+      "Sunsilk Shampoo 380 ml",
+      "Sunsilk Oil Blends 380 ml all variants"
+    ],
+    "groupSpec": {
+      "mode": "variants",
+      "queries": [
+        "Sunsilk Oil Blends 380 ml"
+      ],
+      "minimum": 3,
+      "coverage_review": true
+    },
+    "reason": "User explicitly requested all three clear Oil Blends bottles from their saved packaging reference, and approved 380 ml label. Do not apply this override to other shampoo brands or sizes."
+  }
+]
