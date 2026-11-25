@@ -36,4 +36,4 @@ python server.py
 On Windows, `Start Askari Studio.cmd` launches it with a bundled runtime.
 
 ---
-Built by **Muhammad Uzair** · [Portfolio](https://uzzicodes.github.io) · [LinkedIn](https://www.linkedin.com/in/muhammad-uzair-03b885355/)
+Built by **Muhammad Uzair** · [Portfolio](https://uzzicodes.github.io) · [LinkedIn](https://www.linkedin.com/in/uzzicodes/)
